@@ -9,3 +9,7 @@ I bring a unique blend of experience in Finance and Software Development, enabli
 🌍 Open to opportunities in tech—especially roles that blend finance and engineering.
 
 Let’s connect and build something impactful together!
+
+## 📝 Keep up with me  
+- [Journal](https://portfolio-theta-ten-86.vercel.app/Blog)
+

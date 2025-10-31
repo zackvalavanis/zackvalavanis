@@ -15,11 +15,7 @@ Let’s connect and build something impactful together!
 - [LinkdIn](https://www.linkedin.com/in/zack-valavanis/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackvalavanis&layout=compact&theme=default)](https://github.com/zackvalavanis/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackvalavanis&layout=compact&theme=tokyonight)](https://github.com/zackvalavanis/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zackvalavanis&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/zackvalavanis/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zackvalavanis&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 

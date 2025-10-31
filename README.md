@@ -15,5 +15,6 @@ Let’s connect and build something impactful together!
 - [LinkdIn](https://www.linkedin.com/in/zack-valavanis/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackvalavanis)](https://github.com/zackvalavanis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackvalavanis&layout=compact&theme=default)](https://github.com/zackvalavanis/github-readme-stats)
+
 

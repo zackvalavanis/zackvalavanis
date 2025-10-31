@@ -19,9 +19,6 @@ Let’s connect and build something impactful together!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zackvalavanis&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=zackvalavanis&theme=react-dark&hide_border=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zackvalavanis&langs_count=6&layout=donut&theme=tokyonight)](https://github.com/zackvalavanis/github-readme-stats)
 
 
 

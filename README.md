@@ -10,7 +10,7 @@ I bring a unique blend of experience in Finance and Software Development, enabli
 Let’s connect and build something impactful together!
 
 ## 📝 Keep up with me  
-- [Portfolio](https://zack-valavanis-portfolio.vercel.app/)
+- [Portfolio](https://portfolio-theta-ten-86.vercel.app/)
 - [LinkdIn](https://www.linkedin.com/in/zack-valavanis/)
 
 <!-- Top Languages -->

@@ -13,8 +13,6 @@ Let’s connect and build something impactful together!
 - [Portfolio](https://portfolio-theta-ten-86.vercel.app/)
 - [LinkdIn](https://www.linkedin.com/in/zack-valavanis/)
 
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackvalavanis&layout=compact&theme=tokyonight)](https://github.com/zackvalavanis/github-readme-stats)
 
 
 

@@ -5,9 +5,10 @@ After 4+ years in financial services — portfolio management, quantitative anal
 🔨 Currently building StatDiamond — a full-stack MLB analytics dashboard with a FastAPI backend, JWT auth, SQLAlchemy, Supabase PostgreSQL, and a React/TypeScript frontend. Also building AlgoLens, a blockchain analytics tool for the Algorand network.
 
 🛠️ Stack: Python · FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Ruby on Rails · Git
+
 📊 Finance background: Series 3, 7, 63 & 65 licensed | Portfolio management | Quantitative analysis | Neuberger Berman · Advantage Futures · Accenture
+
 🎓 Education: CU Boulder Post-Bacc in Applied CS (4.0 GPA) | Actualize Full-Stack Bootcamp
-I'm actively looking for junior SWE roles — especially in fintech, trading tech, or data-heavy products where my finance domain expertise is an asset, not just a footnote.
 
 Open to connect.
 

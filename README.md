@@ -8,7 +8,7 @@ After 4+ years in financial services — portfolio management, quantitative anal
 
 📊 Finance background: Series 3, 7, 63 & 65 licensed | Portfolio management | Quantitative analysis | Neuberger Berman · Advantage Futures · Accenture
 
-🎓 Education: CU Boulder Post-Bacc in Applied CS (4.0 GPA) | Actualize Full-Stack Bootcamp
+🎓 Education: CU Boulder Post-Bacc in Applied CS (4.0 GPA) | CU Boulder Leeds School of Business | Actualize Full-Stack Bootcamp
 
 Open to connect.
 

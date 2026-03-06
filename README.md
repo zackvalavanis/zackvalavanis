@@ -1,13 +1,15 @@
-Full-Stack Web Developer | Junior Software Engineer | Post-Baccalaureate in Applied Computer Science
+## Junior Software Engineer | Full-Stack Developer | Finance Domain Expert | Python · FastAPI · React · TypeScript
 
-I bring a unique blend of experience in Finance and Software Development, enabling me to build efficient, data-driven solutions grounded in strong analytical thinking. With over four years of experience in financial analysis and a passion for clean, scalable code, I thrive at the intersection of numbers and technology. Currently, I’m expanding my expertise through a post-baccalaureate in Applied Computer Science.
+I'm a software engineer with a finance background, building full-stack applications at the intersection of data, analytics, and clean code.
+After 4+ years in financial services — portfolio management, quantitative analysis, derivatives — I made a deliberate move into software engineering because I wanted to build the tools, not just use them. I completed a full-stack bootcamp, enrolled in CU Boulder's post-baccalaureate CS program, and have been shipping real projects ever since.
+🔨 Currently building StatDiamond — a full-stack MLB analytics dashboard with a FastAPI backend, JWT auth, SQLAlchemy, Supabase PostgreSQL, and a React/TypeScript frontend. Also building AlgoLens, a blockchain analytics tool for the Algorand network.
 
-💡 I enjoy tackling real-world problems, optimizing workflows, and creating intuitive user experiences.
-🛠️ Tech Stack: Ruby on Rails, JavaScript, React, TypeScript, HTML/CSS, Python, PostgreSQL, Git
-📈 Background: 4+ years in finance | Actualize Coding Bootcamp Graduate | Post-Baccalaureate in Applied CS
-🌍 Open to opportunities in tech—especially roles that combine finance and engineering.
+🛠️ Stack: Python · FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Ruby on Rails · Git
+📊 Finance background: Series 3, 7, 63 & 65 licensed | Portfolio management | Quantitative analysis | Neuberger Berman · Advantage Futures · Accenture
+🎓 Education: CU Boulder Post-Bacc in Applied CS (4.0 GPA) | Actualize Full-Stack Bootcamp
+I'm actively looking for junior SWE roles — especially in fintech, trading tech, or data-heavy products where my finance domain expertise is an asset, not just a footnote.
 
-Let’s connect and build something impactful together!
+Open to connect.
 
 ## 📝 Keep up with me  
 - [Portfolio](https://portfolio-theta-ten-86.vercel.app/)
